@@ -1,0 +1,13 @@
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\bin\Debug\HelloWorldAndroid.dll
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\bin\Debug\HelloWorldAndroid.pdb
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\bin\Debug\HelloWorldAndroid.HelloWorldAndroid.apk
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\bin\Debug\HelloWorldAndroid.HelloWorldAndroid-Signed.apk
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\HelloWorldAndroid.csprojResolveAssemblyReference.cache
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\HelloWorldAndroid.dll
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\HelloWorldAndroid.pdb
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\android\bin\HelloWorldAndroid.HelloWorldAndroid.apk
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\res\layout\main.xml
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\res\values\strings.xml
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\res\drawable\icon.png
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\R.cs.flag
+D:\Projetos\Xamarin\Hello World\Hello-World-Android-Xamarin\HelloWorldAndroid\HelloWorldAndroid\obj\Debug\uploadflags.txt
